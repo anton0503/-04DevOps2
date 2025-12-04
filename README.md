@@ -107,5 +107,114 @@
 
 6. Запись отчета в дневник по практике.
 
+# День 7/12 29.11.2025
+
+Пара №1. 08:20 - 09:05, 09:10 - 09:55
+
+1. Планирование целей и задач на день учебной практики
+2. [Выполнение заданий PR_2.](https://github.com/GSUEP/PR2-pasha-yunker.git)
+
+Пара №2. 10:05 - 10:50, 10:55 - 11:40
+
+1. [Выполнение заданий PR_3.](https://github.com/GSUEP/PR3-pasha-yunker.git)
+2. [Выполнение практического задания 11. Настройка сетевого доступа](https://docs.google.com/document/d/1Q1XOrx41G_9l9kLDGls3NuS6MrnXct4z1oJteixQW4g/edit?usp=drive_link)
+
+Пара №3. 12:20 - 13:05, 13:10 - 13:55
+
+1. [Выполнение практического задания 12. «Тестирование программных продуктов»](https://docs.google.com/document/d/18tDsqr97VUHSkav2idbwj0k2CGZIIf_LX7ZJ9A87na0/edit?usp=drive_link)
+2. [Выполнение заданий PR_3.](https://github.com/GSUEP/PR3-pasha-yunker.git)
+3. Запись отчета в дневник по практике.
+
+# День 8/12 01.12.2025
+
+Пара №1. 08:20 - 09:05, 09:10 - 09:55
+
+1. Планирование целей и задач на день учебной практики
+2. [Выполнение заданий PR_4.](https://github.com/GSUEP/PR4-pasha-yunker.git)
+
+Пара №2. 10:05 - 10:50, 10:55 - 11:40
+
+1. [Выполнение заданий PR_4.](https://github.com/GSUEP/PR4-pasha-yunker.git)
+2. [Выполнение практического задания 13. Настройка сетевого доступа](https://docs.google.com/document/d/19pHqrOwjwoi11C8STNzmkQcas_NA3He-4mECyukSSNY/edit?usp=drive_link)
+
+Пара №3. 12:20 - 13:05, 13:10 - 13:55
+
+1. [Выполнение практического задания 14. «Тестирование программных продуктов»](https://docs.google.com/document/d/1kxWh9CCSU2zcVH1i41dIADJlnXAynPdhu9UOcfUY0EQ/edit?usp=drive_link)
+2. [Выполнение заданий PR_4.](https://github.com/GSUEP/PR4-pasha-yunker.git)
+3. Запись отчета в дневник по практике.
+
+# День 9/12 02.12.2025
+
+Пара №1. 08:20 - 09:05, 09:10 - 09:55
+
+1. Планирование целей и задач на день учебной практики
+2. [Выполнение заданий PR_5.](https://github.com/GSUEP/PR5-pasha-yunker.git)
+
+Пара №2. 10:05 - 10:50, 10:55 - 11:40
+
+1. [Выполнение заданий PR_5.](https://github.com/GSUEP/PR5-pasha-yunker.git)
+2. [Выполнение практического задания 15. «Выявление первичных и вторичных ошибок»](https://docs.google.com/document/d/1ssAUw3m_nxwykqk0MSLMnOXnDukcUM0P7EuHCPkdC3c/edit?usp=drive_link)
+
+Пара №3. 12:20 - 13:05, 13:10 - 13:55
+
+1. [Выполнение практического задания 16. «Обнаружение вируса и устранение последствий его
+влияния»](https://docs.google.com/document/d/1n4gSfo84dyZ7kazAFUwHJbwjG_MKD670d5u2FFi2mbg/edit?usp=drive_link)
+2. [Выполнение заданий PR_6.](https://github.com/GSUEP/PR6-pasha-yunker.git)
+3. Запись отчета в дневник по практике.
+
+# День 10/12 03.12.2025
+
+Пара №1. 08:20 - 09:05, 09:10 - 09:55
+
+1. Планирование целей и задач на день учебной практики
+2. [Выполнение заданий PR_6.](https://github.com/GSUEP/PR6-pasha-yunker.git)
+
+Пара №2. 10:05 - 10:50, 10:55 - 11:40
+
+1. [Выполнение заданий PR_7.](https://github.com/GSUEP/PR7-pasha-yunker.git)
+2. [Выполнение практического задания 17. «Установка и настройка антивируса. 
+Настройка обновлений с помощью зеркала»](https://docs.google.com/document/d/1OArUhgis4-f07GvDfbyv7qtpHjEJ4CAwkLB56wmQejE/edit?usp=drive_link)
+3. [Выполнение практического задания 18. «Настройка политики безопасности»](https://docs.google.com/document/d/1q4KO0JC6yFFsTvqixrYSgLgjSGjI30hfygkRGGEHdE4/edit?usp=drive_link)
+
+Пара №3. 12:20 - 13:05, 13:10 - 13:55
+
+1. [Выполнение практического задания 19. «Настройка браузера»](https://docs.google.com/document/d/14MhV0Yq38s7zpVdODKXYH5_epBYeLLuc18UaX4kUCY8/edit?usp=drive_link)
+2. [Выполнение заданий PR_7.](https://github.com/GSUEP/PR7-pasha-yunker.git)
+3. Запись отчета в дневник по практике.
+
+# День 11/12 04.12.2025
+
+Пара №1. 08:20 - 09:05, 09:10 - 09:55
+
+1. Планирование целей и задач на день учебной практики
+2. [Выполнение заданий PR_8.](https://github.com/GSUEP/PR8-pasha-yunker.git)
+
+Пара №2. 10:05 - 10:50, 10:55 - 11:40
+
+1. [Выполнение заданий PR_8.](https://github.com/GSUEP/PR8-pasha-yunker.git)
+2. [Выполнение практического задания 20. «Работа с реестром»](https://docs.google.com/document/d/1wHKGjK95NbZ_7GXbK7srlDx12VEupUJgoitwAhELunU/edit?usp=drive_link)
+3. [Выполнение практического задания 21. «Работа с программой восстановления файлов 
+и очистки дисков»](https://docs.google.com/document/d/13KgIr9X2LPXRq_v1tZ_xlnQ1OdIBpA6OKorKl-42y6E/edit?usp=drive_link)
+
+Пара №3. 12:20 - 13:05, 13:10 - 13:55
+
+1. Подготовка отчета.
+2. Запись отчета в дневник по практике.
+
+# День 12/12 05.12.2025
+
+Пара №1. 08:20 - 09:05, 09:10 - 09:55
+
+1. Планирование целей и задач на день учебной практики.
+2. Оформление итогового отчета по практике.
+3. Подготовка необходимых документов.
+
+Пара №2. 10:05 - 10:50, 10:55 - 11:40
+
+1. Заполнение дневника практики.
+
+Пара №3. 12:20 - 13:05, 13:10 - 13:55
+
+1. Проверка корректности всех документов.
 
 
